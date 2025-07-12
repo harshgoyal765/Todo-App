@@ -1,4 +1,4 @@
-# Todo-App
+<img width="1408" height="729" alt="image" src="https://github.com/user-attachments/assets/5821b8bc-f848-4421-b7b9-3376991d0032" /># Todo-App
 # 📝 Todo-App
 
 A full-stack **MERN (MongoDB, Express, React, Node.js)** application to manage daily tasks. This app allows users to:
@@ -28,11 +28,6 @@ A full-stack **MERN (MongoDB, Express, React, Node.js)** application to manage d
 
 ---
 
-## 📸 Screenshots
-
-> _(Add screenshots of your UI here if available)_
-
----
 
 ## 🧪 Setup Instructions
 
